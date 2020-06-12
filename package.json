@@ -1,7 +1,7 @@
 {
   "name": "onepointsix",
   "version": "1.0.0",
-  "description": "Beautiful terminal logger",
+  "description": "Beautiful, simple logging.",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
